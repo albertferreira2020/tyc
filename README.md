@@ -23,6 +23,8 @@ execution** (74% performance gain) compared to traditional JavaScript runtimes.
   - Console output
   - Date/Time operations
   - Template literals with expressions
+  - Arrow Functions
+  - Conditions
 
 ## 📋 Installation
 
