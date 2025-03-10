@@ -1,0 +1,14 @@
+{
+  "name": "tyc",
+  "version": "1.0.0",
+  "description": "typescript to javascript to c language",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "start": "node compiler/tyc_compiler.js index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Ferreira",
+  "license": "ISC"
+}
