@@ -1,7 +1,5 @@
 # TyC - TypeScript/JavaScript to C Compiler
 
-![TyC Logo](https://via.placeholder.com/200x100?text=TyC)
-
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/albertferreira2020/tyc)
 
