@@ -10,6 +10,8 @@ JavaScript/TypeScript code into optimized C. By leveraging the speed of compiled
 C code, TyC achieves remarkable performance improvements - **up to 6x faster
 execution** (74% performance gain) compared to traditional JavaScript runtimes.
 
+![Test Benchmark](benchmark.png)
+
 ## ✨ Features
 
 - **Massive Performance Gains**: Achieve up to 74% faster execution times
